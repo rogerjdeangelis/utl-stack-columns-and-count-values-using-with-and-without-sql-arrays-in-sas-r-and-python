@@ -27,6 +27,7 @@ Stack columns and count values using with and without sql arrays in sas r and py
     | .__/|_|  \___/|_.__/|_|\___|_| |_| |_|
     |_|
     */
+ 
 
      /**************************************************************************************************************************/
      /*                                |                                                              |                        */
@@ -347,7 +348,24 @@ Stack columns and count values using with and without sql arrays in sas r and py
     /*   4     value_4     1                                                                                                  */
     /*                                                                                                                        */
     /**************************************************************************************************************************/
-
+  REPO
+    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    https://github.com/rogerjdeangelis/utl-adding-sequence-numbers-and-partitions-in-SAS-sql-without-using-monotonic
+    https://github.com/rogerjdeangelis/utl-create-equally-spaced-values-using-partitioning-in-sql-wps-r-python
+    https://github.com/rogerjdeangelis/utl-find-first-n-observations-per-category-using-proc-sql-partitioning
+    https://github.com/rogerjdeangelis/utl-macro-to-enable-sql-partitioning-by-groups-montonic-first-and-last-dot
+    https://github.com/rogerjdeangelis/utl-partitioning-your-table-for-a-big-parallel-systask-sort
+    https://github.com/rogerjdeangelis/utl-pivot-long-pivot-wide-transpose-partitioning-sql-arrays-wps-r-python
+    https://github.com/rogerjdeangelis/utl-pivot-transpose-by-id-using-wps-r-python-sql-using-partitioning
+    https://github.com/rogerjdeangelis/utl-top-four-seasonal-precipitation-totals--european-cities-sql-partitions-in-wps-r-python
+    https://github.com/rogerjdeangelis/utl-transpose-pivot-wide-using-sql-partitioning-in-wps-r-python
+    https://github.com/rogerjdeangelis/utl-transposing-rows-to-columns-using-proc-sql-partitioning
+    https://github.com/rogerjdeangelis/utl-transposing-words-into-sentences-using-sql-partitioning-in-r-and-python
+    https://github.com/rogerjdeangelis/utl-using-DOW-loops-to-identify-different-groups-and-partition-data
+    https://github.com/rogerjdeangelis/utl-using-sql-in-wps-r-python-select-the-four-youngest-male-and-female-students-partitioning
+    https://github.com/rogerjdeangelis/utl_partition_a_list_of_numbers_into_3_groups_that_have_the_similar_sums_python
+    https://github.com/rogerjdeangelis/utl_partition_a_list_of_numbers_into_k_groups_that_have_the_similar_sums
+    https://github.com/rogerjdeangelis/utl_scalable_partitioned_data_to_find_statistics_on_a_column_by_a_grouping_variable
      /*              _
       ___ _ __   __| |
      / _ \ `_ \ / _` |
