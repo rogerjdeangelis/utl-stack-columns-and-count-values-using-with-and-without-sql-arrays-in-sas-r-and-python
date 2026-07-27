@@ -1,0 +1,13 @@
+{
+  "_captured_at": "2026-07-27T09:29:07Z",
+  "_captured_run_id": "r_10270d4be5234d69859bf70884ae9591",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote sd1.have (3 rows, 3 columns).",
+    "NOTE: Table want created.",
+    "NOTE: PROC PRINT completed: 4 observations printed, 2 variables"
+  ],
+  "log_does_not_contain": ["ERROR:", "[JENNER-ERROR"],
+  "diagnostics": {"parse_warnings": [], "runtime_warnings": []}
+}

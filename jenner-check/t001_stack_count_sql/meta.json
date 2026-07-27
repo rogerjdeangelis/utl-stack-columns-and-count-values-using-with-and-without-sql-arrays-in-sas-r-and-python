@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_stack_count_sql",
+  "source_file": "utl-stack-columns-and-count-values-using-with-and-without-sql-arrays-in-sas-r-and-python.sas",
+  "source_blob_sha": "cdb2260bf712872b46db897957c074ffb3bffd50",
+  "source_commit": "a0f40c3dbfa48625c2e2da75e336628a9f618cb0",
+  "notes": "Solution 1 from the repo: stacks col1-col3 with UNION ALL of SELECT DISTINCT, then counts per value in an outer PROC SQL GROUP BY. Uses the author's inline cards4 data (3 rows) verbatim. Only change: upstream 'libname sd1 \"d:/sd1\"' redirected to 'libname sd1 (work)' in autoexec so sd1.have resolves without external disk. Output reproduces the author's documented WANT table (value_1=1, value_2=2, value_3=2, value_4=1)."
+}
